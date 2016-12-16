@@ -1,0 +1,23 @@
+{
+  "name": "spiritwild-blog",
+  "description": "",
+  "main": "",
+  "authors": [
+    "dungnt <dungnt8805@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "vendor",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "font-awesome-sass": "^4.7.0",
+    "bootstrap-sass": "^3.3.7",
+    "roboto-fontface": "^0.6.0"
+  }
+}
